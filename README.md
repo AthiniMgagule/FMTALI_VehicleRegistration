@@ -1,7 +1,5 @@
 # FMTALI_VehicleRegistration
 
-# Vehicle Registration System
-
 A simple Java console application for registering and managing vehicle information. This system allows users to capture vehicle details, validate license plates for both old and new South African formats, and generate vehicle reports with persistent data storage.
 
 ## Features
